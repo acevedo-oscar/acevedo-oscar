@@ -18,7 +18,7 @@ email: oscar.acevedo@comunidad.unam.mx
 description: > # this means to ignore newlines until "baseurl:"
   This page is my page which serves as a portfolio and a blog for my interests.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://acevedo-oscar..github.io" # the base hostname & protocol for your site
+url: "http://acevedo-oscar.github.io" # the base hostname & protocol for your site
 
 # Social
 githubUsername:
