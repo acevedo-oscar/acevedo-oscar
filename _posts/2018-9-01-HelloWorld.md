@@ -1,13 +1,12 @@
 ---
-layout: post
 title: "Hello World: My first post"
 mathjax: "true"
 
 ---
 
-#Frist Heading
+#First Heading
 
-hello 
+*Hello*
 $$ \varphi^2 = \alpha - \beta $$
 
 ```python
