@@ -1,9 +1,10 @@
 ---
-title: "About"
+title: "About me"
 permalink: /myself/
-header:
-	image: "/images/cat.jpeg"
+
 ---
 
 	
 Hola yo soy
+
+ksjhdjkhsd
