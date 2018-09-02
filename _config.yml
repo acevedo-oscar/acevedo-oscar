@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title: Acevedo Lopez Oscar
-email: oscar.acevedo@comunidad.unam.mx
+title: OLA Portfolio
+title_separator: "-"
 name: Oscar Lopez Acevedo
 description: > # this means to ignore newlines until "baseurl:"
   This page is my page which serves as a portfolio and a blog for my interests.
