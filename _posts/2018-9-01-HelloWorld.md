@@ -10,6 +10,14 @@ mathjax: "true"
 
 $$ \varphi^2 = \alpha - \beta $$
 
+Or
+
+$$
+\begin{align*}
+  \varphi^2 = \alpha - \beta
+\end{align*}
+$$
+
 ## Some Code
 
 ```python
