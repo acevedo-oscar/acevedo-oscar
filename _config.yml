@@ -18,6 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title: Acevedo Lopez Oscar
 email: oscar.acevedo@comunidad.unam.mx
+name: Oscar Lopez Acevedo
 description: > # this means to ignore newlines until "baseurl:"
   This page is my page which serves as a portfolio and a blog for my interests.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -101,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : Oscar Lopez Acevedo
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "I'm a student at the National University."
+  location         : "Mexico"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -270,3 +271,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _posts
+
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
