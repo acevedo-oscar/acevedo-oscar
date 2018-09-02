@@ -1,8 +1,6 @@
 ---
 title: "My Projects"
 permalink: /projects/
- 
-
 ---
 
 {% include base_path %}
