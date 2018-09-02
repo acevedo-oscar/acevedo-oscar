@@ -6,7 +6,8 @@ mathjax: "true"
 
 # First Heading
 
-*Hello* 
+*Hello*, the value is given by
+
 $$ \varphi^2 = \alpha - \beta $$
 
 ## Some Code
