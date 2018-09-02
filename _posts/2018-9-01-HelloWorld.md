@@ -4,10 +4,12 @@ mathjax: "true"
 
 ---
 
-#First Heading
+# First Heading
 
 *Hello*
 $$ \varphi^2 = \alpha - \beta $$
+
+## Some Code
 
 ```python
     import tensorflow as tf
