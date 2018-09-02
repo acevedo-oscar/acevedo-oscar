@@ -6,7 +6,7 @@ mathjax: "true"
 
 # First Heading
 
-*Hello*
+*Hello* 
 $$ \varphi^2 = \alpha - \beta $$
 
 ## Some Code
