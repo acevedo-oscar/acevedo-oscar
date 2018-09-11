@@ -2,7 +2,7 @@
 title: "About me"
 permalink: /myself/
 header:
-    image: "/images/math.jpeg"
+    image: "/images/math.jpg"
 ---
 
 I am a *Technology* undergraduate at *Center for Applied Physics and Advanced Technology of the UNAM* who completed all his credits. 
