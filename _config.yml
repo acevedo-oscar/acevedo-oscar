@@ -104,8 +104,8 @@ analytics:
 author:
   name             : Oscar Lopez Acevedo
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a student at the National University."
-  location         : "Mexico"
+  bio              : "I'm a undegrad student at the National University of Mexico who completed all his credits."
+  location         : "Queretaro, Mexico"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
