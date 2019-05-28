@@ -20,7 +20,7 @@ title: Acevedo's Website
 title_separator: "-"
 name: Oscar Lopez Acevedo
 description: > # this means to ignore newlines until "baseurl:"
-  This page is my page which serves as a portfolio and a blog for my interests.
+  This page is where I write about things I find interesting.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://acevedo-oscar.github.io" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : Oscar Lopez Acevedo
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a undegrad student at the National University of Mexico who completed all his credits."
+  bio              : "I'm a National University of Mexico alumni."
   location         : "Queretaro, Mexico"
   email            :
   uri              :
