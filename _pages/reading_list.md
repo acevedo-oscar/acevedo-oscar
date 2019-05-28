@@ -1,7 +1,6 @@
 ---
 title: "My reading list"
 permalink: /reading-list/
-
 ---
 
 Books I've read:
