@@ -1,7 +1,6 @@
 ---
-layout: "page"
 title: "My reading list"
-permalink: /reading-list/
+permalink: /readinglist/
 ---
 
 {% include base_path %}
