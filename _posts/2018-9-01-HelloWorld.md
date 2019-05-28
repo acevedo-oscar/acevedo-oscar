@@ -1,7 +1,7 @@
 ---
 title: "Hello World: My first post"
 mathjax: "true"
-tags [ machine learning, new]
+tags : [ machine learning, new]
 ---
 
 # First Heading
