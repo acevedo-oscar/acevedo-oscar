@@ -1,4 +1,5 @@
 ---
+layout: archieve
 title: "My reading list"
 permalink: /readinglist/
 ---
