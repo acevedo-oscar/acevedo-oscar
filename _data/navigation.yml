@@ -4,3 +4,5 @@ main:
     url: /myself/
   - title: "My Projects"
     url: /projects/
+  - title: "My Reading List"
+    url: /reading-list/
