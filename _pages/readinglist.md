@@ -18,8 +18,8 @@ permalink: /reading-list/
 
 Books I've read:
 
-+ first
++ 안녕
 
 Books to be read:
 
-+ second
++ 잘가
