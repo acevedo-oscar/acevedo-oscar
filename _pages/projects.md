@@ -1,6 +1,5 @@
 ---
-layout: archieve
-title: "My Projects"
+ title: "My Projects"
 permalink: /projects/
 ---
 
