@@ -1,4 +1,5 @@
 ---
+layout: "page"
 title: "My reading list"
 permalink: /reading-list/
 ---
