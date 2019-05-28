@@ -1,6 +1,6 @@
 ---
 title: "My reading list"
-permalink: /reading/
+permalink: /reading-list/
 ---
 
 Books I've read:
