@@ -1,4 +1,5 @@
 ---
+layout: archieve
 title: "My Projects"
 permalink: /projects/
 ---
