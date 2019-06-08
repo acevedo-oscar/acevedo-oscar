@@ -1,28 +1,7 @@
 ---
-title: "Hello World: My first post"
+title: "A brief description of my thesis that I'm writing."
 mathjax: "true"
 tags : [ machine learning]
 ---
 
-# First Heading
-
-*Hello*, the value is given by
-
-$$ \varphi^2 = \alpha - \beta $$
-
-Or
-
-$$
-\begin{align*}
-  \varphi^2 = \alpha - \beta
-\end{align*}
-$$
-
-## Some Code
-
-```python
-    import tensorflow as tf
-
-    a = tf.variable()
-```
-Hi.
+My thesis is about designing a _Generative Adversarial Network_ architecture for compositional data. 
