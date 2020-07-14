@@ -6,3 +6,5 @@ main:
     url: /projects/
   - title: "My Reading List"
     url: /reading-list/
+  - title: "My Blog"
+    url: /blog/
