@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thesis on Oscar Acevedo</title>
+    <link>https://oscaracevedo.com/tags/thesis/</link>
+    <description>Recent content in thesis on Oscar Acevedo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 May 2019 09:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://oscaracevedo.com/tags/thesis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A brief description of my thesis that I&#39;m writing.</title>
+      <link>https://oscaracevedo.com/blog/2019-5-30-my-thesis/</link>
+      <pubDate>Thu, 30 May 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://oscaracevedo.com/blog/2019-5-30-my-thesis/</guid>
+      <description>My thesis is about designing a Generative Adversarial Network architecture for compositional data.
+Compositional Data Compositional data is noteworthy because of this kind of data occurs in different contexts. Mathematically, compositional data is represented by points on a simplex , which means that given a point $$P_s(x_0,x_1,&amp;hellip;,x_n)$$ then $$\sum_{k=0}^{k=n} x_k = 1$$
+Some examples of compositional data are:
+ Molar concentrations in chemistry. Rock composition in geology. Soil composition. DNA sequencing data Microbiome data.</description>
+    </item>
+    
+  </channel>
+</rss>

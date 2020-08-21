@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://oscaracevedo.com/categories/</loc>
+    <lastmod>2020-08-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oscaracevedo.com/categories/notes/</loc>
+    <lastmod>2020-08-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oscaracevedo.com/</loc>
+    <lastmod>2020-08-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oscaracevedo.com/tags/</loc>
+    <lastmod>2020-08-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oscaracevedo.com/kr/</loc>
+    <lastmod>2020-08-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oscaracevedo.com/tags/%ED%95%9C%EA%B5%AD%EC%96%B4/</loc>
+    <lastmod>2020-08-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oscaracevedo.com/blog/2019-5-30-my-thesis/</loc>
+    <lastmod>2019-05-30T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oscaracevedo.com/blog/</loc>
+    <lastmod>2019-05-30T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oscaracevedo.com/tags/thesis/</loc>
+    <lastmod>2019-05-30T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oscaracevedo.com/about/</loc>
+  </url>
+  
+</urlset>
